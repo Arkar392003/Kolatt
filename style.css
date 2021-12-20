@@ -1,0 +1,43 @@
+h1 {
+color:Black;
+}
+
+#container-fluid {
+padding: 3% 15%;
+}
+#upper {
+background-color: #FCECDD;
+}
+.navbar {
+padding-bottom:3rem !important;
+}
+.latt-img {
+border-radius: 10%;
+width:90%
+}
+
+#service{
+background-color: #BE97DC;
+padding: 7% 15%;
+}
+
+h3 {
+text-align: center;
+}
+.service-box {
+text-align: center;
+}
+.icon:hover { color:#06FF00;
+}
+#hoto {
+padding:7% 15%;
+background-color: #94B3FD;
+text-align: center;
+}
+.aunty {
+border-radius; 15%;
+}
+#pricing {
+padding: 100px;
+text-align: center;
+}
